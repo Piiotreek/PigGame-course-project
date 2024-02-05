@@ -1,0 +1,8 @@
+#pigGame course project
+
+GAME RULES:
+
+1. Each click rolls a dice which output is random
+2. Click "HOLD" button to store your current points (HOLDING current store switchs player)
+3. When you roll one on a dice your current points will be reseted and player will be switched
+4. When you get a 100 points you win
